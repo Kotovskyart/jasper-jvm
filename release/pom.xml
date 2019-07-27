@@ -9,6 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <name>release</name>
+    <description>release module for jasper-jvm programming language</description>
+
     <artifactId>release</artifactId>
     <packaging>pom</packaging>
 

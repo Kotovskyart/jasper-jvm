@@ -9,6 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <name>cmd</name>
+    <description>console launcher for jasper-jvm programming language</description>
     <artifactId>cmd</artifactId>
 
     <dependencies>

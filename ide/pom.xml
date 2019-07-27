@@ -9,6 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <name>ide</name>
+    <description>ide module for jasper-jvm programming language</description>
+
     <artifactId>ide</artifactId>
 
     <dependencies>
